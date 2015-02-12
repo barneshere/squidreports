@@ -1,0 +1,2 @@
+# squidreports
+Monthly Reports
